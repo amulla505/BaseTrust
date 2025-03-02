@@ -1,0 +1,5 @@
+- Node.js (v14 or later)
+- npm or yarn
+- Hardhat
+- MetaMask or any Ethereum-compatible wallet
+- Base Chain RPC URL
